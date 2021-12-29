@@ -50,87 +50,95 @@ arm.flex();                             // 3)
 //  action 3:   the arm rotates conter-clockwise
 arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
-
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:       tree
+//  action 1:   the tree gorws
+tree.grow();
+//  action 2:   the tree is getting crooked
+tree.getCrooked();
+//  action 3:   the tree falls
+tree.fall();
 
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:       wind
+//  action 1:   the wind blows
+wind.blow();
+//  action 2:   the wind changes direction
+wind.changeDirection();
+//  action 3:   the wind blows stronger
+wind.blowStronger();
 
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:       sun
+//  action 1:   the sun rises
+sun.rise();
+//  action 2:   the sun shines
+sun.shine();
+//  action 3:   the sun sets
+sun.set();
 
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:       dryer
+//  action 1:   the dryer heats
+dryer.heat();
+//  action 2:   the dryer tumbles
+dryer.tumble();
+//  action 3:   the dryer cools down
+dryer.coolDown();
 
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:       welcomeMessage
+//  action 1:   the welcome message requests changes
+welcomeMessage.requestChanges();
+//  action 2:   the welcome message displays the update message 
+welcomeMessage.displayUpdatedMessage();
+//  action 3:   the welcome message deletes the messages
+welcomeMessage.deleteMessages();
 
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:       heart
+//  action 1:   the heart skips a beat
+heart.skipBeat;
+//  action 2:   the heart beat tempo changes
+heart.changeHeartBeatTempo();
+//  action 3:   the heart pumps blood
+heart.pumpBlood();
 
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:       sword
+//  action 1:   the sword is rusting
+sword.rust();
+//  action 2:   the sword gets dull
+sword.getDull();
+//  action 3:   the sword reflects light
+sword.reflectLight();
 
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:       ice
+//  action 1:   the ice breaks
+ice.break()
+//  action 2:   the ice thins
+ice.thin();
+//  action 3:   the ice melts
+ice.melt();
 
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:       musicPlayer
+//  action 1:   the music player plays audio
+musicPlayer.playsAudio();
+//  action 2:   the music player skips a track
+musicPlayer.skipsTrack();
+//  action 3: the music player stops audio
+musicPlayer.stopsAudio();
 
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       guest
+//  action 1:   guest arrives
+guest.arrive();
+//  action 2:   guest sits
+guest.sit();
+//  action 3:   guest leaves
+guest.leave();
 
 
 #endif
