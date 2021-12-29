@@ -87,13 +87,13 @@ dryer.tumble();
 dryer.coolDown();
 
 //  5)
-//  Noun:       hair
-//  action 1:   the hair curls
-hair.curl();
-//  action 2:   the hair changes color
-hair.changeColor();
-//  action 3:   the hair gets tangled
-hair.getTangled();
+//  Noun:       welcomeMessage
+//  action 1:   the welcome message requests changes
+welcomeMessage.requestChanges();
+//  action 2:   the welcome message displays the update message 
+welcomeMessage.displayUpdatedMessage();
+//  action 3:   the welcome message deletes the messages
+welcomeMessage.deleteMessages();
 
 //  6)
 //  Noun:       heart
